@@ -17,10 +17,16 @@ A transmissão para demais movimentos foi feita por meio de correias GT2 e polia
 
 A estrutura conta também com rolamentos para adicionar rigidez e auxíliar nos movimentos.
 
+![image](https://github.com/user-attachments/assets/4b9f8536-cdc7-407d-b458-5ed24a978ecf)
+
 ![imagem](https://github.com/user-attachments/assets/e892a032-ae82-4388-9792-207f7b89903b)
 
 ![imagem](https://github.com/user-attachments/assets/e32cc093-5a6f-4d33-bbb1-c888ca891c8e)
 
 ![imagem](https://github.com/user-attachments/assets/6591304e-50bd-48a3-8f40-13d9362d7cbd)
+
+O projeto conta também com o design de uma garra atuada por meio de um motor servo e mecanismo pinhâo cremalheira para sua abertura e fechamento
+
+![image](https://github.com/user-attachments/assets/bd1bc58d-650f-40fa-b7da-8d4476b7211d)
 
 
